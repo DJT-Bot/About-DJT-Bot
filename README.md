@@ -1,17 +1,13 @@
-About this organization
+*About this organization*
 
-A multipurpose Discord bot paired with administrative tools and humor.
-
-This is a bot made for a private friend based Discord server. Its purpose is to be a tool bot on the likes of MEE6 and Dyno, but with a twist of humor
-inspired by President Donald J. Trump. It is privately held and ran.
+The DJT Discord bot is a performative Discord bot based on President Donald J. Trump. It's current features include full Gemini AI chat integration and feed access for any subreddit.
 
 Disclaimer - The functions and humor used in this bot do no reflect the values and views of the creators. It is entirely based on subjective humor
 relating to the person or persons the bot is based on.
 
 Contributing:
 This bot is privately held between the individuals Zanzort and LHBlitz for a private Discord group dedicated to our friends. Therefore, there will be no public contributions
-outside of these two individuals. Any other potential contributions will involve individuals we are familiar with. If you are friends with us, you can DM Zanzort or LHBlitz
-on Discord to discuss getting involved with the project.
+outside of these two individuals.
 
                                  Apache License
                            Version 2.0, January 2004
@@ -190,7 +186,7 @@ on Discord to discuss getting involved with the project.
 
    END OF TERMS AND CONDITIONS
 
-   Copyright 2025 Zanzort/LHBlitz
+   Copyright 2026 Zanzort/LHBlitz
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
