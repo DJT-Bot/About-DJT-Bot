@@ -1,6 +1,6 @@
 *About this organization*
 
-The DJT Discord bot is a performative Discord bot based on President Donald J. Trump. It's current features include full Gemini AI chat integration and feed access for any subreddit.
+The DJT Discord bot is a performative Discord bot based on President Donald J. Trump. It's current features include full Gemini AI chat integration and feed access for any subreddit. You can view the new revised version of the bot [here](https://github.com/DJT-Bot/DJT-Bot-Simplified).
 
 Disclaimer - The functions and humor used in this bot do no reflect the values and views of the creators. It is entirely based on subjective humor
 relating to the person or persons the bot is based on.
@@ -199,5 +199,3 @@ outside of these two individuals.
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
-
-https://github.com/DJT-Bot/DJT-Discord-Bot
